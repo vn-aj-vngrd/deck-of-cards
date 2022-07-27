@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0V5Irf6BJTGD+DaTAl6dOJagXHeu7oQqgAZxR4iJ5e9VZzBpNT7xDZl9ZC0oQ5GM4PDfXbpjYsDZC9P5jYoqNw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C# Console\\deckofcards\\deckofcards\\deckofcards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Van AJ Vanguardia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
